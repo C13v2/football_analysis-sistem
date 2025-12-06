@@ -11,6 +11,7 @@ Player speed and distance estimation
 Camera movement compensation
 Annotated output video with all overlays
 
+
 Features
 1. Object Detection
 Uses Ultralytics YOLO to detect:
@@ -48,26 +49,6 @@ Ball possession statistics
 Speed and distance metrics (if enabled)
 Camera movement visualization
 
-Project Structure (Typical)
-project/
-│
-├── main.py
-├── tracker/
-│   ├── tracker.py
-│   ├── camera_movement_estimator.py
-│   ├── speed_and_distance_estimator.py
-│   ├── team_assigner.py
-│   └── ball_assigner.py
-│
-├── utils/
-│   ├── geometry.py
-│   └── helpers.py
-│
-├── input_videos/
-├── output_videos/
-├── models/
-│   └── yolov8_model.pt
-└── README.md
 
 How It Works (Pipeline Overview)
 
