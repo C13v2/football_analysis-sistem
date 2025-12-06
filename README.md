@@ -1,4 +1,4 @@
-#Football Player Tracking and Match Analytics
+# **Football Player Tracking and Match Analytics**
 
 A complete end-to-end pipeline for detecting, tracking, and analyzing players, referees, and the ball in football (soccer) match footage.
 The system uses YOLO, ByteTrack, and multiple custom modules to generate detailed match analytics, including:
