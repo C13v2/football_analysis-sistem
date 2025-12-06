@@ -1,3 +1,5 @@
+![screen](output_videos/screen.png)
+
 # **Football Player Tracking and Match Analytics**
 
 A complete end-to-end pipeline for detecting, tracking, and analyzing players, referees, and the ball in football (soccer) match footage.
